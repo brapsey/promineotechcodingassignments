@@ -1,0 +1,6 @@
+.w3-row {
+    display: -webkit-flex;
+    display: flex;
+    -webkit-align-items: stretch;
+    align-items: stretch;
+  }
